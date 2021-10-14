@@ -1,0 +1,401 @@
+image_file,age(yrs),special_discount_available,category
+7c6ea62d91.jpg,<= 2,1,Real Estate
+77bf0d5441.jpg,<= 2,0,Perfumes
+8a7dbaeeb4.jpg,<= 2,0,Real Estate
+1e5afc3bd9.jpg,0,1,Cars
+87a230400d.jpg,> 2 & < 5,0,Perfumes
+1db75462fe.jpg,<= 2,0,Cars
+4c01c413f7.jpg,> 2 & < 5,0,Cars
+544ea18947.jpg,0,0,Perfumes
+3d92249fd3.jpg,<= 2,1,Cars
+6c252c49db.jpg,0,1,Watches
+5af249ece7.jpg,0,0,Watches
+87b1b880ec.jpg,0,0,Perfumes
+4b1521def2.jpg,0,1,Cars
+2b0568afff.jpg,<= 2,0,Cars
+6bfc4ff92f.jpg,> 5,0,Real Estate
+3d6051554f.jpg,0,0,Real Estate
+818d548607.jpg,0,1,Perfumes
+7fe4e8ab15.jpg,<= 2,0,Real Estate
+22ce681b45.jpg,<= 2,1,Watches
+28ce9dbe6a.jpg,> 5,0,Watches
+0baea89192.jpg,0,1,Real Estate
+89a54effe5.jpg,> 5,0,Perfumes
+5bf19f41b9.jpg,<= 2,0,Real Estate
+4c0c4c791d.jpg,<= 2,0,Real Estate
+7ac390fdb9.jpg,<= 2,1,Watches
+325e05f638.jpg,0,1,Perfumes
+4f01299bd3.jpg,<= 2,1,Watches
+8c07d170cd.jpg,<= 2,1,Real Estate
+7c3b71380c.jpg,<= 2,0,Real Estate
+0bb7d7bbb0.jpg,> 5,0,Real Estate
+27fa822c6c.jpg,0,1,Watches
+407ca20269.jpg,> 2 & < 5,0,Perfumes
+2df87d74ae.jpg,0,0,Cars
+7fb93e5069.jpg,0,0,Watches
+5e6feb2ead.jpg,<= 2,1,Watches
+021cf73dd6.jpg,> 2 & < 5,0,Watches
+433fabf18a.jpg,<= 2,0,Perfumes
+4a419a2613.jpg,0,0,Real Estate
+55f1d6aa25.jpg,0,0,Perfumes
+1af6022911.jpg,0,0,Cars
+5ddcb05b4b.jpg,<= 2,0,Real Estate
+7d071212e0.jpg,0,1,Real Estate
+52c13443f9.jpg,0,0,Perfumes
+19b964ef79.jpg,> 5,0,Watches
+65d348672f.jpg,<= 2,1,Perfumes
+5e75bedd43.jpg,<= 2,1,Watches
+263ccf71ec.jpg,> 2 & < 5,0,Perfumes
+4f0b78a8e8.jpg,0,1,Real Estate
+9f07c9a16a.jpg,> 5,0,Watches
+8baf8b76f6.jpg,> 5,0,Watches
+59d5991ec3.jpg,<= 2,1,Perfumes
+695ffd965b.jpg,0,0,Perfumes
+015d34eb8f.jpg,> 5,0,Watches
+2dcdfb9228.jpg,<= 2,0,Cars
+1d8801851d.jpg,> 5,0,Real Estate
+7fe9081410.jpg,> 2 & < 5,0,Real Estate
+9fc230d42e.jpg,0,0,Watches
+76e559761c.jpg,> 2 & < 5,0,Perfumes
+8f9c6cf2de.jpg,0,1,Watches
+6d6a21305f.jpg,0,0,Watches
+5fc6c2c601.jpg,<= 2,1,Real Estate
+53fb9355cd.jpg,> 2 & < 5,0,Perfumes
+3ce8369aa3.jpg,<= 2,1,Real Estate
+049e6d1ae6.jpg,0,0,Perfumes
+8dbc033b94.jpg,0,0,Watches
+4fe2676b21.jpg,> 5,0,Real Estate
+76f98edefe.jpg,<= 2,0,Perfumes
+2afd1cb4d0.jpg,> 2 & < 5,0,Cars
+2b2840a0a0.jpg,> 2 & < 5,0,Cars
+97bd47380f.jpg,> 5,0,Perfumes
+9a66abf01b.jpg,<= 2,0,Watches
+04edd94601.jpg,0,0,Cars
+6bf457431e.jpg,0,1,Cars
+02cf459c62.jpg,0,1,Real Estate
+2a78a4f5bf.jpg,> 2 & < 5,0,Real Estate
+3f7cb8e4e1.jpg,> 2 & < 5,0,Cars
+4b756aa8c6.jpg,<= 2,0,Cars
+5ea0e3d175.jpg,<= 2,0,Real Estate
+4c64f75295.jpg,> 2 & < 5,0,Cars
+9d03ddb20d.jpg,> 5,0,Real Estate
+93ccaad90a.jpg,0,0,Perfumes
+6eedbd1932.jpg,0,1,Cars
+16b2031e10.jpg,<= 2,1,Watches
+214cc333d4.jpg,<= 2,0,Perfumes
+78cc0fcb8a.jpg,> 5,0,Perfumes
+3d296e9f2a.jpg,> 5,0,Cars
+8f84f9cb9d.jpg,> 2 & < 5,0,Watches
+3e58b10e49.jpg,<= 2,0,Cars
+0c386e07e9.jpg,<= 2,1,Cars
+06d0acc299.jpg,0,0,Watches
+0dbd81a334.jpg,> 5,0,Cars
+797e073ad7.jpg,0,0,Perfumes
+521f0bc0f2.jpg,0,0,Perfumes
+72fb73eaa9.jpg,> 2 & < 5,0,Perfumes
+3dddae6272.jpg,0,1,Real Estate
+55b99cb66b.jpg,0,0,Perfumes
+3d96973a16.jpg,> 5,0,Real Estate
+5fe9ba85e0.jpg,0,1,Cars
+30a1ada524.jpg,<= 2,1,Watches
+8b3fcaf8eb.jpg,<= 2,0,Real Estate
+0cadcea3de.jpg,<= 2,0,Real Estate
+0db90e4085.jpg,<= 2,0,Cars
+6c7dc349bf.jpg,0,0,Watches
+05dae5db1d.jpg,0,1,Real Estate
+256dfe4b00.jpg,0,1,Perfumes
+72ce6f9b07.jpg,<= 2,1,Perfumes
+4a9a3817e7.jpg,> 2 & < 5,0,Real Estate
+7fdb4a787c.jpg,<= 2,1,Real Estate
+70b664a418.jpg,> 5,0,Perfumes
+2bd8723da5.jpg,<= 2,0,Cars
+401eecd190.jpg,<= 2,0,Perfumes
+1fdf2d6666.jpg,> 5,0,Cars
+3f6098eda5.jpg,> 2 & < 5,0,Real Estate
+1e4f7e5838.jpg,<= 2,1,Real Estate
+28cf922ef4.jpg,0,1,Watches
+2a45605e73.jpg,<= 2,0,Real Estate
+8a0cb00cfb.jpg,> 2 & < 5,0,Real Estate
+6bae790e7b.jpg,> 5,0,Cars
+61dd5955eb.jpg,0,0,Perfumes
+28d50ab385.jpg,> 5,0,Watches
+4f78274754.jpg,0,1,Cars
+66f47a537b.jpg,> 2 & < 5,0,Perfumes
+7b90ab2e99.jpg,0,0,Cars
+47d7eae11f.jpg,<= 2,1,Perfumes
+9da051fe66.jpg,<= 2,1,Real Estate
+758f44be1d.jpg,0,0,Perfumes
+5c7e9ac253.jpg,0,1,Watches
+0257ffda52.jpg,> 2 & < 5,0,Perfumes
+245ad2a584.jpg,<= 2,0,Perfumes
+55b63d47a2.jpg,> 5,0,Perfumes
+281f239efc.jpg,<= 2,1,Perfumes
+796e576e50.jpg,<= 2,1,Perfumes
+1bb4110ada.jpg,> 2 & < 5,0,Cars
+3c2725d4f3.jpg,0,0,Cars
+1deb9c1c75.jpg,> 2 & < 5,0,Cars
+2a6a199731.jpg,0,1,Cars
+6fac55e595.jpg,<= 2,1,Watches
+5a54468d78.jpg,> 2 & < 5,0,Cars
+353df30016.jpg,0,0,Perfumes
+86b4286da1.jpg,0,1,Perfumes
+90b8918db9.jpg,0,0,Perfumes
+3b53cbaefd.jpg,0,0,Real Estate
+01a281230e.jpg,0,1,Cars
+60acbfa005.jpg,> 5,0,Perfumes
+65bc256a7a.jpg,0,1,Perfumes
+9b367aaff2.jpg,<= 2,1,Real Estate
+1c2d2c9346.jpg,0,1,Cars
+5e96e2f738.jpg,0,1,Real Estate
+6fc562e896.jpg,<= 2,1,Real Estate
+48b2c2e963.jpg,0,0,Perfumes
+3b38428334.jpg,<= 2,1,Cars
+0b40fb147b.jpg,> 2 & < 5,0,Real Estate
+5addd51f0f.jpg,0,1,Real Estate
+87adb73c24.jpg,> 2 & < 5,0,Perfumes
+70a8247c6d.jpg,<= 2,1,Perfumes
+53ddc8dd1d.jpg,0,0,Perfumes
+4e73266972.jpg,<= 2,0,Cars
+7e52dbf2fd.jpg,<= 2,0,Watches
+6aa8ca622d.jpg,0,0,Watches
+4b89f884fc.jpg,0,0,Cars
+237c955fdb.jpg,0,0,Perfumes
+3b844e9a55.jpg,> 5,0,Cars
+5fe6e0c0cc.jpg,0,0,Cars
+2b71f61851.jpg,0,1,Real Estate
+07e51665d2.jpg,> 2 & < 5,0,Real Estate
+2bf516ea07.jpg,<= 2,0,Real Estate
+434d1686c5.jpg,<= 2,0,Perfumes
+85d05b271c.jpg,0,1,Perfumes
+116de3d164.jpg,0,0,Perfumes
+1fefec5d97.jpg,0,0,Real Estate
+7f8c4b3532.jpg,> 5,0,Watches
+13aac30b82.jpg,> 5,0,Watches
+5b9881d03f.jpg,> 2 & < 5,0,Watches
+4a6ec005ce.jpg,> 2 & < 5,0,Real Estate
+5f46f4bdc2.jpg,<= 2,1,Real Estate
+19ab3b329f.jpg,<= 2,0,Watches
+652b902bc4.jpg,> 2 & < 5,0,Perfumes
+9d5970f4b2.jpg,0,1,Real Estate
+4f5f29ec20.jpg,<= 2,1,Cars
+6f6d68b120.jpg,0,1,Watches
+08e240cff6.jpg,0,1,Watches
+1c7859e33f.jpg,0,1,Cars
+085f6fbe12.jpg,> 5,0,Perfumes
+4a9ecb0318.jpg,<= 2,0,Cars
+7a475521b7.jpg,0,0,Watches
+3adc900847.jpg,> 2 & < 5,0,Real Estate
+7acfad213a.jpg,0,0,Watches
+8fdd0a7563.jpg,0,1,Watches
+400fff9dc2.jpg,> 2 & < 5,0,Perfumes
+6cd2caff3c.jpg,0,1,Cars
+9aac56a7f6.jpg,0,0,Watches
+06a9e9eaa1.jpg,<= 2,0,Cars
+0ea9d041c0.jpg,0,0,Cars
+7a7d4eeb67.jpg,0,0,Cars
+390f1c5f26.jpg,<= 2,0,Perfumes
+6b93d4ff21.jpg,<= 2,0,Cars
+5a547f0d29.jpg,<= 2,1,Cars
+8f10ce8a07.jpg,> 5,0,Watches
+9f214ef5ed.jpg,0,1,Watches
+23a5391bf9.jpg,> 5,0,Watches
+98be304166.jpg,<= 2,1,Perfumes
+6ec030e58e.jpg,0,0,Cars
+8eb86e7b4b.jpg,<= 2,0,Watches
+0e8d66747a.jpg,<= 2,0,Cars
+2ad92037ae.jpg,<= 2,0,Cars
+5f885d033d.jpg,0,1,Watches
+820b85b016.jpg,<= 2,1,Perfumes
+7aefaba5c6.jpg,<= 2,0,Real Estate
+2c08b8b482.jpg,> 5,0,Real Estate
+1b02a72b2e.jpg,<= 2,1,Cars
+2d44f6b1aa.jpg,<= 2,1,Real Estate
+2b23cad5b8.jpg,0,0,Real Estate
+85e05b0ced.jpg,> 5,0,Perfumes
+417a06302b.jpg,0,0,Perfumes
+9dbf9065bb.jpg,> 5,0,Watches
+57e72fb6b8.jpg,<= 2,0,Perfumes
+539a53420f.jpg,0,1,Perfumes
+5ccbd1dc93.jpg,> 5,0,Real Estate
+1b3e76bc0f.jpg,> 2 & < 5,0,Cars
+27fd8e9e18.jpg,<= 2,1,Watches
+0e00271d54.jpg,<= 2,1,Cars
+071abbb41b.jpg,0,0,Perfumes
+477b9afb83.jpg,<= 2,1,Perfumes
+5a93baa4de.jpg,<= 2,0,Real Estate
+71b0cedda1.jpg,0,0,Perfumes
+82f84332c4.jpg,> 5,0,Perfumes
+9e4eb90f75.jpg,0,0,Watches
+9b751ed6d4.jpg,0,1,Watches
+7a1febbe72.jpg,> 2 & < 5,0,Cars
+8a7dd47f9c.jpg,<= 2,1,Watches
+2d76f25db5.jpg,> 2 & < 5,0,Real Estate
+3e8a07cc0f.jpg,0,1,Real Estate
+49d68d1805.jpg,> 2 & < 5,0,Perfumes
+19ec25f9e6.jpg,0,1,Watches
+66c1afc5e1.jpg,0,0,Perfumes
+9cf77fc948.jpg,<= 2,1,Watches
+675f496639.jpg,<= 2,1,Perfumes
+1da0983e1d.jpg,> 2 & < 5,0,Cars
+6b4c49c4d3.jpg,0,1,Real Estate
+19c0f7b9ca.jpg,0,1,Watches
+67d497fc07.jpg,0,1,Perfumes
+6da702f642.jpg,0,0,Watches
+1c7064d8ac.jpg,0,1,Cars
+5c5f106648.jpg,0,0,Cars
+143ec3c9f4.jpg,<= 2,0,Perfumes
+676cf39d17.jpg,0,1,Perfumes
+7e4d179ae9.jpg,<= 2,1,Watches
+7ea3e0d573.jpg,<= 2,1,Real Estate
+8f9c625b86.jpg,0,1,Real Estate
+0d423f0ce1.jpg,0,1,Cars
+8ae9b2c74c.jpg,<= 2,1,Watches
+60bc833a01.jpg,<= 2,1,Perfumes
+9bed415a45.jpg,<= 2,0,Real Estate
+80d4b3df55.jpg,> 2 & < 5,0,Perfumes
+0ecbe7f80c.jpg,<= 2,1,Cars
+1ea6402cfd.jpg,0,1,Cars
+8fe034853c.jpg,0,0,Watches
+8eb06267ca.jpg,<= 2,1,Watches
+5c9bd207cd.jpg,<= 2,0,Real Estate
+5ca1b10792.jpg,<= 2,1,Watches
+8d51e6e0d8.jpg,> 2 & < 5,0,Real Estate
+9ae46b7dee.jpg,> 2 & < 5,0,Real Estate
+1ae45b81e0.jpg,0,0,Cars
+8fd6024c3a.jpg,<= 2,1,Watches
+627c69ab1c.jpg,<= 2,1,Perfumes
+8ac9b16d97.jpg,<= 2,1,Real Estate
+9fd0b5eba8.jpg,0,0,Watches
+92a6e2e5ec.jpg,> 5,0,Perfumes
+08afb9f3e4.jpg,> 5,0,Watches
+5ab6540906.jpg,0,0,Watches
+1e2d030e98.jpg,<= 2,0,Cars
+3b983946c7.jpg,<= 2,0,Real Estate
+3a52226684.jpg,0,1,Cars
+3b17436727.jpg,0,0,Real Estate
+52a5971bdc.jpg,0,0,Perfumes
+72df7bb0cb.jpg,0,0,Perfumes
+4e9ab37f15.jpg,0,1,Real Estate
+5e71da540f.jpg,<= 2,0,Watches
+1fed450a71.jpg,0,1,Cars
+0d61d5554e.jpg,0,0,Real Estate
+7a1803b31d.jpg,0,1,Cars
+6ebbca55fe.jpg,0,1,Cars
+3dc18d25b6.jpg,0,1,Cars
+2f6d2b42df.jpg,<= 2,0,Cars
+4ab4f6e682.jpg,0,0,Cars
+3b5abccc5f.jpg,<= 2,1,Cars
+86ecf4fa6c.jpg,<= 2,1,Perfumes
+5a015d6851.jpg,0,1,Real Estate
+15be12af1b.jpg,0,0,Watches
+8dd69e08a5.jpg,<= 2,1,Real Estate
+1edb8835b4.jpg,0,1,Cars
+632c25a1dd.jpg,0,0,Perfumes
+3a9440eae8.jpg,0,1,Real Estate
+2e6cecbf2c.jpg,<= 2,0,Cars
+6b177a41c5.jpg,> 2 & < 5,0,Real Estate
+6f6de6e271.jpg,> 2 & < 5,0,Watches
+6c9a698173.jpg,> 2 & < 5,0,Watches
+570ed529cf.jpg,<= 2,0,Perfumes
+69df0b9699.jpg,<= 2,0,Perfumes
+66d09cfaf5.jpg,0,1,Perfumes
+240bd33453.jpg,<= 2,1,Perfumes
+695eeef538.jpg,<= 2,0,Perfumes
+808f18581a.jpg,<= 2,0,Perfumes
+5f8d6b47c4.jpg,<= 2,0,Cars
+4b2bc220de.jpg,> 2 & < 5,0,Cars
+4b551505eb.jpg,<= 2,1,Cars
+8d2dd60a10.jpg,> 2 & < 5,0,Watches
+4b9451d2e2.jpg,<= 2,0,Real Estate
+70a75ac436.jpg,<= 2,0,Perfumes
+04b18e04bd.jpg,<= 2,1,Real Estate
+80d3bee476.jpg,> 5,0,Perfumes
+14c7dce4a4.jpg,0,1,Watches
+9acb086f43.jpg,> 5,0,Watches
+7cc4a13b22.jpg,> 2 & < 5,0,Real Estate
+9ba1dfbbee.jpg,0,1,Watches
+5f7d324036.jpg,> 5,0,Cars
+5beb13923e.jpg,> 2 & < 5,0,Watches
+9b0448d705.jpg,0,0,Real Estate
+4b783fc429.jpg,0,0,Real Estate
+7ed8b8029e.jpg,<= 2,0,Real Estate
+9d43dcf440.jpg,<= 2,1,Watches
+6edcd1ea10.jpg,<= 2,1,Real Estate
+1a88e9e86c.jpg,0,1,Cars
+5f3cbe2ab6.jpg,0,0,Cars
+6a4e69c1ef.jpg,0,0,Cars
+2cd06602f8.jpg,0,0,Real Estate
+4f82831268.jpg,<= 2,1,Watches
+4f91d6624e.jpg,0,0,Watches
+1d109fec1a.jpg,0,1,Cars
+5c7d41625a.jpg,0,0,Watches
+5e37380265.jpg,> 2 & < 5,0,Real Estate
+6aafabcc70.jpg,0,1,Real Estate
+4f87ad371e.jpg,0,1,Watches
+5fad971a7a.jpg,<= 2,0,Watches
+8db406244e.jpg,<= 2,0,Watches
+5b35d53858.jpg,<= 2,1,Watches
+2b8b22f1d9.jpg,0,0,Cars
+1f49321a20.jpg,0,1,Cars
+14cbc87536.jpg,0,1,Watches
+1dc6054a75.jpg,0,0,Cars
+0f21ab66e2.jpg,0,0,Real Estate
+3d280b893c.jpg,0,1,Real Estate
+6e41d99562.jpg,0,0,Watches
+7a2889008b.jpg,> 5,0,Watches
+354d92fb96.jpg,<= 2,0,Perfumes
+8cdc70a61b.jpg,<= 2,0,Watches
+8ddd37107a.jpg,0,0,Real Estate
+167abfb079.jpg,> 5,0,Perfumes
+2d6c60e26a.jpg,> 2 & < 5,0,Cars
+5c2210bf60.jpg,0,1,Cars
+6f4e5b8a26.jpg,0,1,Cars
+4ce764f20e.jpg,0,1,Real Estate
+557e3c7cda.jpg,0,0,Perfumes
+7ed4f99865.jpg,<= 2,1,Watches
+1add505a3e.jpg,> 5,0,Real Estate
+343f8795bf.jpg,0,0,Perfumes
+6f1943fce2.jpg,0,0,Watches
+0bd27a6c69.jpg,<= 2,1,Real Estate
+5ddbe61c37.jpg,<= 2,1,Cars
+9d7cce1570.jpg,<= 2,0,Real Estate
+8a7edfef30.jpg,0,0,Watches
+5e0abc98db.jpg,> 5,0,Cars
+5bc61da8d5.jpg,0,1,Cars
+7c897e8d2b.jpg,> 2 & < 5,0,Watches
+7a5e66e7a2.jpg,<= 2,0,Cars
+8cbd6aa33d.jpg,<= 2,1,Watches
+5cb39d7a53.jpg,> 2 & < 5,0,Watches
+05a280a383.jpg,0,1,Real Estate
+3f910e5e59.jpg,0,0,Cars
+646d2c4ab6.jpg,0,0,Perfumes
+8ee3269bf1.jpg,0,0,Watches
+1f62a016ba.jpg,0,1,Real Estate
+7a15a367e7.jpg,<= 2,0,Watches
+7aa3dcf6f4.jpg,<= 2,0,Real Estate
+07de3a2330.jpg,0,0,Real Estate
+97f668fe2b.jpg,> 2 & < 5,0,Perfumes
+6d0078edb6.jpg,> 5,0,Watches
+88ffd5c526.jpg,0,0,Perfumes
+238e357e8c.jpg,0,1,Perfumes
+5d39d74a06.jpg,<= 2,1,Watches
+20fd3f2dfe.jpg,<= 2,1,Watches
+8a77a254e5.jpg,> 2 & < 5,0,Watches
+3cf0f0a07e.jpg,> 2 & < 5,0,Real Estate
+17d568c957.jpg,<= 2,1,Watches
+9c1ee1091b.jpg,0,1,Watches
+6efea5ab90.jpg,> 2 & < 5,0,Cars
+395c3ea45c.jpg,> 5,0,Perfumes
+001d628765.jpg,> 2 & < 5,0,Real Estate
+63de30dc1e.jpg,0,0,Perfumes
+5e9d7a0bb0.jpg,0,0,Cars
+2e1e766ea1.jpg,<= 2,0,Cars
+2ba09addeb.jpg,<= 2,1,Real Estate
+58ba641531.jpg,<= 2,1,Perfumes
+05d5e0a76b.jpg,<= 2,1,Watches
+1a914e315e.jpg,0,0,Real Estate
+4b51f1c9f5.jpg,0,0,Cars
+6ac0cc17db.jpg,<= 2,1,Cars
+05f64e2423.jpg,0,1,Real Estate
+2f64a84dd0.jpg,<= 2,0,Cars
+3cbf6cf858.jpg,<= 2,1,Cars
